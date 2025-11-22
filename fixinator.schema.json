@@ -37,11 +37,11 @@
     },
     "ignorePatterns": {
       "description": "Some applications may have their own functions for safely encoding variables to prevent Cross Site Scripting (XSS).",
-      "type": "object",
+      "type": "object"
     },
     "engines": {
       "description": "An array of CFML engines that the code runs on.",
-      "type": "array",
+      "type": "array"
     },
     "includeScanners": {
       "description": "An array of scanner ids which to use, all other scanners will be ignored.",
